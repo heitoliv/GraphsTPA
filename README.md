@@ -1,5 +1,3 @@
-Aqui está uma proposta de relatório formatada em Markdown, baseada no código que discutimos e nas imagens fornecidas. Você pode copiar e colar este conteúdo em um arquivo `README.md` ou convertê-lo para PDF.
-
 ---
 
 # Relatório Técnico: Implementação de Biblioteca de Grafos (GraphTPA)
